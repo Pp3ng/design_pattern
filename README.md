@@ -1,7 +1,6 @@
 # Design Patterns Project
 
-This project contains examples of various common design patterns. Each design pattern is implemented in a separate file and includes a simple `main` function to demonstrate its usage.
-The best way to learn it is to read the code and run the examples in your local environment.
+This project showcases various common design patterns implemented in C++. Each design pattern is encapsulated in a separate file, accompanied by a simple main function that demonstrates its usage. The project aims to provide clear examples of each pattern's structure, advantages, and applicable scenarios, helping developers understand when to use specific design patterns in their applications.
 
 ## Table of Contents
 
